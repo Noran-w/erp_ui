@@ -19,6 +19,9 @@ app_license = "MIT"
 # web_include_js = "/assets/erp_ui/js/erp_ui.js"
 
 # include custom scss in every website theme (without file extension ".scss")
+website_theme_scss = "erp_ui/public/scss/desk.bundle"
+website_theme_scss = "erp_ui/public/scss/login.bundle"
+website_theme_scss = "erp_ui/public/scss/website.bundle"
 # website_theme_scss = "erp_ui/public/scss/website"
 
 # include js, css files in header of web form
