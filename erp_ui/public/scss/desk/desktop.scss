@@ -633,7 +633,7 @@ body {
 
 	&.number-widget-box {
 		cursor: pointer;
-		height: 115px;
+		height: auto;
 		padding: var(--padding-sm) var(--padding-md);
 
 		.widget-head {
